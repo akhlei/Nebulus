@@ -1,6 +1,8 @@
-# Nebulus - project from 2015
-IAT 267 Project - Learning Java OOP, design patterns and code organization 
+# Nebulus - 2015
+IAT 265 Project - Learning Java, object oriented programming, software design patterns and code organization.
 
-Incrementally improved upon over several weeks as part of school program. 
+Space themed interactive application where the user manipulates and observes various particles in space. Incorporates interaction, graphics, sound and text. 
 
-Learning exercises for Object Oriented Programming, file organization, design patterns, and utilising various Java libraries and functions. Vector images for planets are creative commons licensed. 
+Incrementally improved upon over several weeks as part of school program - intended to teach production of maintainable and readable code and skills with debugging and refactoring. Developed on Eclipse IDE. 
+
+Vector images available through creative commons license. 
